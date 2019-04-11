@@ -8,8 +8,8 @@
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "http://jwu142.github.io/capstone11111"
-baseurl: "/capstone11111"
+url: "http://jwu142.github.io"
+baseurl: ""
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -36,7 +36,7 @@ avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+ title-img: /path/to/image
 
 # --- Background colour/image options --- #
 
