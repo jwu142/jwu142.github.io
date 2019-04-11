@@ -9,4 +9,4 @@ Jiajun Wu is a graduate student in the Data Science Program at The George Washin
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Why don't you check [my Linkedin](https://www.linkedin.com/in/jiajun-wu-4b7065b9/) and get **more** information about me.
